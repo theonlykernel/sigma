@@ -41,7 +41,7 @@ detection:
         Image:
             - '*\System32\\*'
             - '*\SysNative\\*'
-            - '*\SysWowo64\\*'
+            - '*\SysWow64\\*'
     selection_mc:
         Image: '*\Mc.exe'
     filter_mc:
